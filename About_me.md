@@ -7,11 +7,11 @@
 ## Projects 🌱
 
 -  My last project :  Resistance prediction to immunotherapy in lung cancer (NSCLC) 
--  ![R](https://img.shields.io/badge/-R-276DC3?&logo=R)
--  ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
+-  Technologies used : ![R](https://img.shields.io/badge/-R-276DC3?&logo=R) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  ![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=gitlab)
 
 
-## languages and tools 💻
+
+## Languages and tools 💻
 - Favorite laguage : ![R](https://img.shields.io/badge/-R-276DC3?&logo=R)
 - Other languages : ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 - Tools : ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?&logo=RStudio)  ![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=gitlab)
