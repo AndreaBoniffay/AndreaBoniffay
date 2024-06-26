@@ -3,6 +3,8 @@
 
  I'm Andréa Boniffay, a French Doctor of Pharmacy and Machine learning engineer. 
 
+ I'm passionate about predictive analysis in the field of cancerology, I'm familiar with classic supervised machine learning models (regression and classification). Currently on a joint contract with INRIA (a French digital research institute) and CRCM (Centre de Recherche en Cancérologie de Marseille).
+
 
 ## Projects 🌱
 
