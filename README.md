@@ -8,7 +8,16 @@
 
 ## Projects 🌱
 
--  My last project :  Resistance prediction to immunotherapy in lung cancer (NSCLC) 
+PERSONAL
+
+-  My last project :  Risk prediction in cervical cancer 
+-  Technologies used : ![R](https://img.shields.io/badge/-R-276DC3?&logo=R) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code) 
+> [!NOTE]
+> packages : mice.
+
+INRIA x INSERM
+
+-  The project :  Resistance prediction to immunotherapy in lung cancer (NSCLC) 
 -  Technologies used : ![R](https://img.shields.io/badge/-R-276DC3?&logo=R) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  ![GitLab](https://img.shields.io/badge/-GitLab-330F63?&logo=gitlab)
 
 > [!NOTE]
