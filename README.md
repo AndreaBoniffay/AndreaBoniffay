@@ -10,7 +10,7 @@
 
 PERSONAL
 
--  My last project :  [Risk analysis in cervical cancer](https://github.com/AndreaBoniffay/statistical_report)
+-  My last project :  [Risk analysis in cervical cancer](https://github.com/AndreaBoniffay/P1-Cervical-Cancer-Risk-Analysis)
 -  Technologies used : ![R](https://img.shields.io/badge/-R-276DC3?&logo=R) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code) 
 > [!NOTE]
 > packages : mice.
