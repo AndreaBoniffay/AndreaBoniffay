@@ -1,9 +1,9 @@
 👋 Hi, I’m Andréa 
 =============
 
- I'm Andréa Boniffay, a French Doctor of Pharmacy and DataScientist. 
+ I'm Andréa Boniffay, a French Doctor of Pharmacy and passionate for innovation. 
 
- I'm passionate about predictive analysis in the field of cancerology and chronic diseases. I'm familiar with classic supervised machine learning models (regression and classification). My most recent contract was a joint appointment with INRIA (the French National Institute for Research in Digital Science and Technology) and CRCM (the Cancer Research Center of Marseille).
+My most recent contract was a joint appointment with INRIA (the French National Institute for Research in Digital Science and Technology) and CRCM (the Cancer Research Center of Marseille).
 
 
 ## Projects 🌱
